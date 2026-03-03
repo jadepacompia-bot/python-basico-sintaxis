@@ -6,16 +6,16 @@ promedio = 19
 numero = -50
 
 #2. tipo de dato decimal (float)
-peso = 75.50
-estatura = 170.30
+peso = 55
+estatura = 162.30
 temperatura = -14.70 
 precio = 99.99
 
 #3. tipo de dato texto (str)
 letra = 'A'
-nombre = 'Diego'
-apellido = "Lipa"
-dni = '70412694'
+nombre = 'Jade'
+apellido = "Pacompia"
+dni = '60744655'
 
 #4. tipo de dato booleanos (bool)
 es_mayor_de_edad = True
